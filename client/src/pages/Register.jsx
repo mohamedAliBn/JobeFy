@@ -1,7 +1,7 @@
-import { Logo } from '../components'
+import { Logo,FormRow } from '../components'
 import { Link } from 'react-router-dom'
 import Wrapper from '../assets/wrappers/RegisterAndLoginPage'
-import FormRow from '../components/FormRow'
+
 
 function Register() {
   return (
